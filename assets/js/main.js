@@ -16,7 +16,6 @@ if (navClose) {
 }
 
 // Menu remove mobile
-
 const navLink = document.querySelectorAll('.nav__link');
 
 function linkAction() {
